@@ -1,3 +1,5 @@
+<img src="https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1" width="1000" height="270" alt="anjubala-dev" />
+
 <h1 align="center">Hi 👋, I'm Anju</h1>
 <h3 align="center">A passionate mobile and backend developer</h3>
 
